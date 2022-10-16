@@ -1,0 +1,1 @@
+This is a collaborative repository between me and my partner Oluwadare Owolabi, we are both cohort 9 of the ALX software engineering students. It is a repo to test our knowledge on witting a custom printf function in C. It is a complete emulation of the C standrad liabry function called printf.
